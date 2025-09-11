@@ -87,4 +87,5 @@ Hi there! I'm **Njabulo Sidwell Motaung**. I’m an IT professional data analyst
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/njabulo-motaung-5bb4b9212)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sidwellmotaung.github.io/My_Portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/njabulo-motaung-5bb4b9212/)
+
